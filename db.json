@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Name": "John Doe",
+      "Age": 30,
+      "DOB": "1994-03-15",
+      "email": "john.doe@example.com",
+      "gender": "Male",
+      "Address": "123 Main St, Block A, New York, NY",
+      "Mobile": "+1-555-123-4567",
+      "PF_Account_Details": "PF123456789",
+      "Designation": "Software Engineer",
+      "Manager_Details": {
+        "Name": "Jane Smith",
+        "email": "jane.smith@company.com"
+      },
+      "University_Name": "Stanford University",
+      "Adhaar_Details": "XXXX-XXXX-1234",
+      "Pan_Details": "ABCDE1234F",
+      "10th_Marksheet_Details": {
+        "board": "CBSE",
+        "marks": 89
+      },
+      "12th_Marksheet_Details": {
+        "board": "CBSE",
+        "marks": 92
+      },
+      "state": "New York",
+      "Country": "USA",
+      "City": "New York"
+    },
+    {
+      "id": 2,
+      "Name": "Emily Clark",
+      "Age": 27,
+      "DOB": "1996-07-23",
+      "email": "emily.clark@example.com",
+      "gender": "Female",
+      "Address": "456 South St, Suite 101, Los Angeles, CA",
+      "Mobile": "+1-555-987-6543",
+      "PF_Account_Details": "PF987654321",
+      "Designation": "QA Engineer",
+      "Manager_Details": {
+        "Name": "Robert Johnson",
+        "email": "robert.johnson@company.com"
+      },
+      "University_Name": "MIT",
+      "Adhaar_Details": "XXXX-XXXX-5678",
+      "Pan_Details": "FGHIJ5678K",
+      "10th_Marksheet_Details": {
+        "board": "ICSE",
+        "marks": 85
+      },
+      "12th_Marksheet_Details": {
+        "board": "ICSE",
+        "marks": 88
+      },
+      "state": "California",
+      "Country": "USA",
+      "City": "Los Angeles"
+    }
+  ]
+}
