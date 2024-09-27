@@ -1,0 +1,115 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "age": 28,
+            "dob": "1996-04-15",
+            "email": "john.doe@example.com",
+            "gender": "Male",
+            "address": {
+                "street": "123 Main St",
+                "city": "New York",
+                "state": "New York",
+                "zipcode": "10001",
+                "country": "USA"
+            },
+            "mobile": "+1 123-456-7890",
+            "pfAccount": {
+                "pfNumber": "PF123456789"
+            },
+            "designation": "Software Engineer",
+            "manager": {
+                "name": "Jane Smith",
+                "designation": "Senior Software Engineer"
+            },
+            "education": {
+                "university": "MIT",
+                "marks": {
+                    "10th": "89%",
+                    "12th": "92%"
+                }
+            },
+            "aadhaar": {
+                "number": "1234-5678-9012"
+            },
+            "pan": {
+                "number": "ABCDE1234F"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Alice Johnson",
+            "age": 30,
+            "dob": "1994-02-20",
+            "email": "alice.johnson@example.com",
+            "gender": "Female",
+            "address": {
+                "street": "456 Oak Ave",
+                "city": "Los Angeles",
+                "state": "California",
+                "zipcode": "90001",
+                "country": "USA"
+            },
+            "mobile": "+1 987-654-3210",
+            "pfAccount": {
+                "pfNumber": "PF987654321"
+            },
+            "designation": "Quality Analyst",
+            "manager": {
+                "name": "James Brown",
+                "designation": "Lead Quality Engineer"
+            },
+            "education": {
+                "university": "Stanford University",
+                "marks": {
+                    "10th": "85%",
+                    "12th": "88%"
+                }
+            },
+            "aadhaar": {
+                "number": "4321-8765-2109"
+            },
+            "pan": {
+                "number": "FGHIJ1234L"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Robert Green",
+            "age": 35,
+            "dob": "1989-07-12",
+            "email": "robert.green@example.com",
+            "gender": "Male",
+            "address": {
+                "street": "789 Pine Rd",
+                "city": "Chicago",
+                "state": "Illinois",
+                "zipcode": "60601",
+                "country": "USA"
+            },
+            "mobile": "+1 456-789-0123",
+            "pfAccount": {
+                "pfNumber": "PF456789012"
+            },
+            "designation": "Project Manager",
+            "manager": {
+                "name": "Sarah Lee",
+                "designation": "Senior Project Manager"
+            },
+            "education": {
+                "university": "Harvard University",
+                "marks": {
+                    "10th": "90%",
+                    "12th": "93%"
+                }
+            },
+            "aadhaar": {
+                "number": "8765-4321-0987"
+            },
+            "pan": {
+                "number": "KLMNO1234P"
+            }
+        }
+    ]
+}
